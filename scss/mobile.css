@@ -1,0 +1,60 @@
+#mainheader .navbar .logo {
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  padding: 2rem 0;
+}
+#mainheader .navbar ul {
+  display: block;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+#mainheader .navbar li {
+  text-align: center;
+}
+#mainheader .navbar .container {
+  display: block;
+}
+#mainheader #showcase .showcase-flex {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+#mainheader #showcase .showcase-flex .show-img {
+  width: 100%;
+}
+#mainheader #showcase .showcase-flex .showcase-text h1 {
+  margin-top: 0;
+  font-size: 2rem;
+}
+#mainheader #showcase .showcase-flex .showcase-text p {
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
+#about .about-flex {
+  display: block;
+}
+#about .about-flex p {
+  width: 100%;
+  text-align: justify;
+  margin: 0 auto;
+  padding-bottom: 2rem;
+}
+#about .about-flex .icons-flex {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+#about .about-flex .icons-flex .icons-flex1 {
+  text-align: center;
+}
+
+#courses .courses-flex {
+  display: block;
+}
+#courses .courses-flex .flexbox-1 {
+  margin-bottom: 2rem;
+}/*# sourceMappingURL=mobile.css.map */

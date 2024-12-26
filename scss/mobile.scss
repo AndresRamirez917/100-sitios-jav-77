@@ -1,0 +1,77 @@
+//mainheader
+#mainheader {
+    .navbar {
+        .logo {
+            display: block;
+            text-align: center;
+            margin: 0 auto;
+            padding: 2rem 0;
+        }
+        ul {
+            display: block;
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        li {
+            text-align: center;
+        }
+        .container {
+            display: block;
+        }
+    }
+    #showcase {
+        .showcase-flex {
+            margin: 0 auto;
+            display: block;
+            text-align: center;
+            .show-img {
+                width: 100%;
+            }
+            .showcase-text {
+                h1 {
+                    margin-top: 0;
+                    font-size: 2rem;
+                }
+                p {
+                    margin: 0 auto;
+                    text-align: center;
+                    padding-bottom: 2rem;
+                }
+            }
+        }
+    }
+}
+
+//about
+#about {
+    .about-flex {
+        display: block;
+        p {
+            width: 100%;
+            text-align: justify;
+            margin: 0 auto;
+            padding-bottom: 2rem;
+        }
+        .icons-flex {
+            display: block;
+           width: 100%;
+           margin: 0 auto;
+            // margin-left: 8rem;
+            text-align: center;
+            .icons-flex1 {
+            
+                text-align: center;
+            }
+        }
+    }
+}
+
+//courses
+#courses {
+    .courses-flex {
+        display: block;
+        .flexbox-1 {
+            margin-bottom: 2rem;
+        }
+    }
+}
