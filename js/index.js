@@ -14,3 +14,6 @@ async function getData2() {
     console.log(coctail);
 }
 getData2()
+
+
+
