@@ -171,8 +171,9 @@ img {
   text-align: left;
 }
 #courses .courses-flex p {
-  width: 80%;
+  width: 100%;
   font-size: 14px;
+  text-align: justify;
 }
 
 #footer {
